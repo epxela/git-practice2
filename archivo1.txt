@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Esto es un archivo en la rama feature1
+=======
+Esto es un archivo de la rama feature2 con cambios diferentes
+>>>>>>> feature2
